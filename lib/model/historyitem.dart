@@ -8,5 +8,4 @@ class HistoryItem extends HiveObject {
   late String title;
   @HiveField(1)
   late String subtitle;
-  // HistoryItem(this.title, this.subtitle);
 }
